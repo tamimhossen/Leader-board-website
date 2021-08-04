@@ -1,0 +1,87 @@
+body{
+    background-color: #F3F1FF;
+} 
+
+ 
+.logo{
+     width: 40px;
+ }
+
+.navigation-area{
+    margin-bottom: 50px;
+}
+
+.player-icon{
+    width: 56px;
+}
+
+.ml-2{
+    margin-left: 10px;
+}
+
+
+.row{
+    margin-bottom: 15px;
+}
+
+.blog-image{
+    width: 117px;
+}
+
+.header-border{
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+footer{
+    margin-top: 70px;
+}
+
+.card-img-top{
+    width: 225px;
+    margin: auto;
+}
+
+.card{
+    border: none;
+}
+
+.card-title, .card-text{
+    text-align: center;
+}
+
+.card-text{
+    color: #ED6B4F;
+}
+
+.card-footer img{
+    width: 13px;
+}
+
+.duration{
+    background-color: #FFE4E8;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.clock{
+    height: 20px;
+    width: 20px;
+}
+
+.duration p{
+    color: #FF4A60;
+    position: relative;
+    top: 7px;
+    margin-left: 10px;
+}
